@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarme</string>
+    <string name="day_prompt">قم باختيار التنبيه !</string>
+    <string-array name="days_arrays">
+    <item>التنبيه الاول</item>
+    <item>التنبيه الثانى</item>
+    </string-array>
+</resources>
